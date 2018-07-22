@@ -1,3 +1,3 @@
 /* eslint-disable no-console */
 
-console.log("Hello from Node.js!")
+console.log("Run tests to see results")
